@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jenson
+- 👋 Hi, I’m Jenson.
 - 👀 I’m interested in Embedded C coding.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI
